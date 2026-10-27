@@ -1,0 +1,11 @@
+here{
+  "appId": "com.albiladksa.store",
+  "appName": "البلاد",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.albiladksa.com",
+    "cleartext": false,
+    "errorPath": "index.html",
+    "allowNavigation": ["www.albiladksa.com", "albiladksa.com", "*.albiladksa.com"]
+  }
+}
